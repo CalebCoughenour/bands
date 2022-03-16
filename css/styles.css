@@ -19,6 +19,21 @@
   background-color: rgb(20, 78, 240);
 }
 
+.rightlist {
+  margin: auto;
+  margin-right: 15px;
+  padding: 5px;
+  border: solid black;
+  border-width: 5px;
+  width: 8%;
+  float: right;
+  background-color: rgb(20, 78, 240);
+}
+
+ul {
+  font-size: large;
+}
+
 h1 {
   text-align: center;
 }
@@ -32,6 +47,12 @@ body {
   background-color: lightblue;
 }
 
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  color: darkred;
+}
+
 p.text {
+  color: black;
   font-size: large;
 }
