@@ -8,6 +8,17 @@
   background-color: rgb(20, 78, 240);
 }
 
+.leftbar {
+  margin: auto;
+  margin-right: 8px;
+  padding: 5px;
+  border: solid black;
+  border-width: 5px;
+  width: 30%;
+  float: left;
+  background-color: rgb(20, 78, 240);
+}
+
 h1 {
   text-align: center;
 }
