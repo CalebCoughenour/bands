@@ -1,5 +1,18 @@
 .sidebar {
   width: 30%;
   float: right;
+  background-color: rgb(20, 78, 240);
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  font-style: italic;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
   background-color: lightblue;
 }
