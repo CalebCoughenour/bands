@@ -3,7 +3,7 @@
   padding: 5px;
   border: solid black;
   border-width: 5px;
-  width: 30%;
+  width: 20%;
   float: right;
   background-color: rgb(20, 78, 240);
 }
@@ -14,7 +14,7 @@
   padding: 5px;
   border: solid black;
   border-width: 5px;
-  width: 30%;
+  width: 40%;
   float: left;
   background-color: rgb(20, 78, 240);
 }
