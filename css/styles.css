@@ -1,4 +1,8 @@
 .sidebar {
+  margin: auto;
+  padding: 5px;
+  border: solid black;
+  border-width: 5px;
   width: 30%;
   float: right;
   background-color: rgb(20, 78, 240);
@@ -15,4 +19,8 @@ h2 {
 
 body {
   background-color: lightblue;
+}
+
+p.text {
+  font-size: large;
 }
