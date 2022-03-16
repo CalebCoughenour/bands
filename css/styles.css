@@ -6,6 +6,8 @@
   width: 20%;
   float: right;
   background-color: rgb(20, 78, 240);
+  box-sizing: border-box;
+
 }
 
 .leftbar {
@@ -19,6 +21,17 @@
   background-color: rgb(20, 78, 240);
 }
 
+.leftbar2 {
+  margin: auto;
+  margin-right: 8px;
+  padding: 5px;
+  border: solid black;
+  border-width: 5px;
+  width: 20%;
+  float: left;
+  background-color: rgb(20, 78, 240);
+}
+
 .rightlist {
   margin: auto;
   margin-right: 15px;
@@ -28,6 +41,15 @@
   width: 8%;
   float: right;
   background-color: rgb(20, 78, 240);
+}
+
+img {
+  margin: auto;
+  height: auto;
+  width: 90%;
+  border: solid black;
+  border-width: 3px;
+  display: block;
 }
 
 ul {
