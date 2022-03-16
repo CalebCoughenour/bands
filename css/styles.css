@@ -52,6 +52,11 @@ p {
   color: darkred;
 }
 
+p.center {
+  text-align: center;
+  font-style: italic;
+}
+
 p.text {
   color: black;
   font-size: large;
